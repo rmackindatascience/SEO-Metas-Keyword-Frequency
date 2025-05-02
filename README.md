@@ -1,4 +1,5 @@
-# SEO-Metas-Keyword-Frequency
+# SEO Metas Keyword Frequency Google Chrome Extension
+
 A useful SEO Google Chrome extension that displays word count and keyword density.
 
 Check out screenshot of the extension
