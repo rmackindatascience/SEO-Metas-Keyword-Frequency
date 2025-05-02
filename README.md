@@ -9,6 +9,8 @@ Check out screenshot of the extension
 
 # Installing the extension
 
+Download the files
+
 1. Open Chrome Extensions Page: Go to chrome://extensions/ in your browser. 
 
 2. Enable Developer Mode: Toggle on the "Developer mode" switch in the top right corner. 
