@@ -1,0 +1,126 @@
+/*  table, th, td { border: 1px solid black;font-size: 12px;word-break: break-all;}*/
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 300;
+    margin-bottom: 0px;
+}
+
+#sub-headline {
+  margin-top: 0px;
+}
+
+#particles {
+	position: relative;
+  background: #04AA6D;
+}
+
+#webcoderskull {
+	position: absolute;
+	left: 0;
+	top: 50%;
+	transform: translateY(-60%);
+	padding: 0 20px;
+	width: 100%;
+	text-align: center;
+	color: #fff;
+}
+
+@media only screen and (max-width: 600px) {
+	#webcoderskull {
+		transform: translateY(-40%);
+	}
+}
+
+
+h3 {
+  color: #f46a53;
+}
+
+h3#center-title {
+    text-align: center;
+}
+
+h4 {
+  color: #f46a53;
+}
+
+h2#totalWordCountPrintOut {
+  color: #000;
+}
+
+canvas {
+	height: 30vh;
+	background-color: #3b5cc4;
+}
+#webcoderskull h4 {
+	letter-spacing: 5px;
+	font-size: 3rem;
+	font-family: 'Roboto', sans-serif;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+#metaTable {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+thead {
+    color: #fff;
+    font-weight: 700;
+    background: #3b5cc4;
+}
+
+thead th {
+    padding: 14px 0;
+}
+
+#metaTable td, #metaTable th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#metaTable tr:nth-child(even){background-color: #f2f2f2;}
+
+#metaTable tr:hover {background-color: #ddd;}
+
+#metaTable th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
+}
+
+table#wordAnalysis {
+    width: 70%;
+}
+
+table#wordAnalysis thead tr td {
+    padding: 14px;
+}
+
+td.num-words-header {
+    font-size: 14px;
+    font-weight: 700;
+    color: #f46a53;
+}
+
+#padding {
+  margin: 30px;
+}
+
+p#faqs {
+    text-align: center;
+    color: #f46a53;
+}
+
+body {width:700px;background-color: #fff;}
+.valueth {width:275px}
